@@ -11,8 +11,10 @@ This project allows users to manage their cryptocurrency portfolios using Python
 
 ## Usage
 
-1. Run main.py to interact with the cryptocurrency portfolio manager.
-2. Follow the prompts to perform actions such as viewing the portfolio, adding coins, or checking the total valuation.
+1. cp.py - Contains the module for managing cryptocurrency portfolios.
+2. main.py - Handles user interaction and utilizes functionalities from cp.py.
+3. _pycache_/ - Folder containing Python bytecode cache files (automatically generated).
+4. .venv/ - Virtual environment folder (can be created using virtualenv or similar tools).
 
 ## Instructions
 
@@ -36,4 +38,4 @@ Raghav Minhas
 - Customize the main.py file to include additional user interaction features.
 - Avoid modifying or deleting the _pycache_ and .venv folders, as they contain essential system-generated files.
 - This project is intended for educational purposes and can be customized based on specific requirements. Feel free to modify and enhance the script as needed.
-"# Cryptocurrency-Portfolio-Manager" 
+"# Cryptocurrency-Portfolio-Manager"
