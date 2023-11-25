@@ -8,8 +8,6 @@ This project allows users to manage their cryptocurrency portfolios using Python
 
 1. cp.py - Contains the module for managing cryptocurrency portfolios.
 2. main.py - Handles user interaction and utilizes functionalities from cp.py.
-3. _pycache_/ - Folder containing Python bytecode cache files (automatically generated).
-4. .venv/ - Virtual environment folder (can be created using virtualenv or similar tools).
 
 ## Usage
 
