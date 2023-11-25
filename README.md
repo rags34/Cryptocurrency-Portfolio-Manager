@@ -36,3 +36,4 @@ Raghav Minhas
 - Customize the main.py file to include additional user interaction features.
 - Avoid modifying or deleting the _pycache_ and .venv folders, as they contain essential system-generated files.
 - This project is intended for educational purposes and can be customized based on specific requirements. Feel free to modify and enhance the script as needed.
+"# Cryptocurrency-Portfolio-Manager" 
